@@ -100,5 +100,5 @@ Takes two numbers and returns the sum.
 
 ## Demo
 
-Insert gif or link to demo
-
+in the progact 
+ [Demo]([https://shields.io/](https://github.com/HKahlan/kah1m7)
